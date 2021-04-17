@@ -6,7 +6,7 @@ body{
     padding: 2en;
 }
 nav{
-    background: red;
+    background:green;
     display: grid;
     grid-template-columns: repeat(1,3fr);
 }
